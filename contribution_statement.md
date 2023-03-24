@@ -9,5 +9,7 @@ In this collaborative project focused on sea surface temperature from satellite 
 
 Prasann Guruprasad
 
+- provided git debugging support throughout and contributed to question 5 including plot generation for plots b and c. 
+
 Avery Klauke
 - completed question 4 including data cleaning and plots

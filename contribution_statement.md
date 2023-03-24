@@ -1,6 +1,7 @@
 ### Contribution statement
 
 Claire Mai
+- completed question 1-3, 6
 
 Gilberto Perezalonso
 
